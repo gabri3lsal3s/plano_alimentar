@@ -1,3 +1,4 @@
+
 <style>
 :root {
   --primary-color: #2c3e50;
@@ -182,6 +183,7 @@ li {
   }
 }
 </style>
+
 
 # Plano Alimentar Científico para Ganho de Massa Muscular
 
